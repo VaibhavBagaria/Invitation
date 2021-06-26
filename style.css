@@ -1,0 +1,21 @@
+.Invitation{
+    background-color: aqua;
+    border-style:ridge;
+    border-width: 30px;
+    border-color: orangered;
+}
+
+#DT{
+    Color:blue;
+    cursor: pointer;
+}
+
+#Word{
+    color:red;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#hr{
+    height: 10px;
+    width: 300px;
+}
